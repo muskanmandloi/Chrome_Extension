@@ -15,3 +15,5 @@ A popup window that displays the content of your extension
 - A function that is called when the popup window is opened
 - Once you have created these files, you can package them together into a Chrome extension. You can then install your extension on Chrome by clicking on the "Load unpacked extension" button in the Chrome extensions page.
 
+![New Tab - Google Chrome 04-06-2023 23_11_03](https://github.com/muskanmandloi/Chrome_Extension/assets/54906865/0004566f-3bfd-46d1-8deb-17d5a56bb9b5)
+![New Tab - Google Chrome 04-06-2023 23_11_16](https://github.com/muskanmandloi/Chrome_Extension/assets/54906865/0c8fa79c-8a9d-47b9-98c7-72f98c2f0df4)
